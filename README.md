@@ -1,4 +1,4 @@
-# git-practice-handbook
+# Git Practice Handbook - Version A
 A practical guide for Git, Branching, and Pull Requests
 ## Useful Git Commands
 
